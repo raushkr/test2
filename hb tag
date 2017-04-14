@@ -1,0 +1,1 @@
+<script>   console.log('rendering with price %%PATTERN:hb_price%%');  try { window.top.renderHBAd(document, '%%PATTERN:hb_adid%%');   } catch(e) {console.log(e);} </script>
